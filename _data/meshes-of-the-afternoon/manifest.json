@@ -23,6 +23,16 @@
         "id": "https://jacksongorham.github.io/long-afternoon/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 809.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://jacksongorham.github.io/long-afternoon/annotations/meshes-of-the-afternoon-canvas-1-long-take.json",
+            "label": {
+              "none": ["Long Take"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://jacksongorham.github.io/long-afternoon/meshes-of-the-afternoon/canvas-1/paintings",
