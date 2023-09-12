@@ -30,8 +30,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "1.0"
+          "type": "RangeSelector",
+          "t": "5460.0,6720.0"
         }
       }
     },
@@ -61,8 +61,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "3.0"
+          "type": "RangeSelector",
+          "t": "11520.0,12360.0"
         }
       }
     },
@@ -92,8 +92,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "4.0"
+          "type": "RangeSelector",
+          "t": "15300.0,15720.0"
         }
       }
     },
@@ -123,8 +123,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "4.0"
+          "type": "RangeSelector",
+          "t": "15720.0,16080.0"
         }
       }
     },
@@ -154,8 +154,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "4.0"
+          "type": "RangeSelector",
+          "t": "16080.0,16860.0"
         }
       }
     },
@@ -185,8 +185,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "4.0"
+          "type": "RangeSelector",
+          "t": "16860.0,17520.0"
         }
       }
     },
@@ -217,7 +217,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "5.0,6.0"
+          "t": "21540.0,22139.0"
         }
       }
     }
